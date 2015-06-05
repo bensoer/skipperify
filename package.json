@@ -1,0 +1,24 @@
+{
+  "name": "skipperify",
+  "version": "1.0.0",
+  "description": "A Demo App using Skipper and RESTify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bensoer/skipperify.git"
+  },
+  "author": "bensoer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bensoer/skipperify/issues"
+  },
+  "homepage": "https://github.com/bensoer/skipperify",
+  "dependencies": {
+    "request": "^2.57.0",
+    "restify": "^3.0.3",
+    "skipper": "^0.5.5"
+  }
+}
